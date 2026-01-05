@@ -1,0 +1,31 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 160,
+          "rotate": {
+            "anchor": "0% 25%"
+          },
+          "width": 265,
+          "x": 316,
+          "y": 287
+        },
+        "props": {
+          "text": "Test Page"
+        },
+        "type": "ia.display.label"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

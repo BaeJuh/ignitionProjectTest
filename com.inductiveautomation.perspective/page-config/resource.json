@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModificationSignature": "4158bed4888e36ff97dede5b8060bd8bcb15249704803d8f3f836a8d3dc4115a",
+    "lastModification": {
+      "actor": "jhbae@orcait.net",
+      "timestamp": "2026-01-05T04:36:45Z"
+    }
+  }
+}
